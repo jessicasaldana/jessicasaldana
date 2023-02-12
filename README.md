@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 <div dsplay="inline-block">
-	<img align="right" width="250px" src="meu-bitmoji/circulo-sorrindo-01.png">
+	<img align="right" width="280px" src="meu-bitmoji/circulo-sorrindo-01.png">
 	<h1 align="left">Olá Devs, Jessica Saldaña aqui ✨</h1>
 	<p>Tenho 28 anos, moro em Petrolina-PE. Estudo Ciência da Computação na Faculdade de Petrolina (FACAPE) falta pouco para eu me formar 🎉</p>
 	<p>Nerd, geek, gamer, otaku e dorameira nas horas vagas. Sou uma apaixonada por Tecnologia. Sempre quis trabalhar diretamente com programação e finalmente pude realizando meu desejo e estou iniciando na área, espero logo oficializar minhas carreira como Dev.</p>
@@ -10,7 +10,7 @@
 </p>
 </div>
 <div dsplay="inline-block">
-	<img align="right" width="380px" src="meu-bitmoji/em-pe-acenando-02.png">
+	<img align="right" width="400px" src="meu-bitmoji/em-pe-acenando-02.png">
 	<h2>Minha Jornada 🏃‍♀️</h2>
 	<ul>
 		<li>🧭 Faço parte da equipe da <a href="https://compass.uol/pt/home/">Compass.uol</a></li>
