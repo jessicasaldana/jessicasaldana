@@ -4,7 +4,7 @@
 	<p>Tenho 28 anos, moro em Petrolina-PE. Estudo Ciência da Computação na Faculdade de Petrolina (FACAPE) falta pouco para eu me formar 🎉</p>
 	<p>Nerd, geek, gamer, otaku e dorameira nas horas vagas. Sou uma apaixonada por Tecnologia. Sempre quis trabalhar diretamente com programação e finalmente pude realizando meu desejo e estou iniciando na área, espero logo oficializar minhas carreira como Dev.</p>
 <p align="center">
-	<img width="35%" src="https://tenor.com/pt-BR/view/persona-futaba-sakura-gif-18286525.gif" >
+	<img width="350px" src="https://tenor.com/pt-BR/view/persona-futaba-sakura-gif-18286525.gif" >
 </p>
 </div>
 <div>
@@ -25,7 +25,7 @@
     </ul>
 	<p>Cada uma dessas áreas foram grandes oportunidades de crescimento e amadurescimento que me levaram até onde estou hoje e graças a Deus a ser quem sou. Espero poder compartilhar aqui mais uma parte da minha trajetoria, crescimento e amadurecimento tanto individual como com meus atuais colegas e novos colegas 💖</p>
 <p align="left">
-	<img width="35%" src="https://media.giphy.com/media/4bAEIAB84zPwc/giphy.gif">
+	<img width="350px" src="https://media.giphy.com/media/4bAEIAB84zPwc/giphy.gif">
 </p>
 </div>
 
