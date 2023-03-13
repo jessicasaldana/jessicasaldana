@@ -3,7 +3,7 @@
 	<h1 align="left">Olá Devs, Jessica Saldaña aqui ✨</h1>
 	<p>Tenho 28 anos, moro em Petrolina-PE. Estudo Ciência da Computação na Faculdade de Petrolina (FACAPE) falta pouco para eu me formar 🎉</p>
 	<p>Nerd, geek, gamer, otaku e dorameira nas horas vagas.</p>
-	<p>Sou uma apaixonada por Tecnologia. É desejo poder ajudar a melhorar a qualidade de vida das pessoas usando muitos recursos tecnológicos</p>
+	<p>Sou uma apaixonada por Tecnologia. É desejo poder ajudar a melhorar a qualidade de vida das pessoas usando muitos recursos tecnológicos.</p>
 	<p align="center">
 		<img width="350px" src="https://tenor.com/pt-BR/view/persona-futaba-sakura-gif-18286525.gif" >
 	</p>
@@ -51,10 +51,10 @@
 	<h3>Gerenciamento de projeto</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="8%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="8%">
-	<h4>Aprendendo</h4>
+	<!--<h4>Aprendendo</h4>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="8%">
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="8%">
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="8%">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="8%">-->
 </div>
 
 <!--<div>
