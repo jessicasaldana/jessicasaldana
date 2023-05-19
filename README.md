@@ -1,7 +1,7 @@
 <div>
 	<img align="right" width="30%" src="meu-bitmoji/circulo-sorrindo-01.png">
 	<h1 align="left">Olá Devs, Jessica Saldaña aqui ✨</h1>
-	<p>Tenho 28 anos, moro em Petrolina-PE. Estudo Ciência da Computação na Faculdade de Petrolina - FACAPE</p>
+	<p>Tenho 29 anos, moro em Petrolina-PE. Estudo Ciência da Computação na Faculdade de Petrolina - FACAPE</p>
 	<p>Nerd, geek, gamer, otaku e dorameira nas horas vagas.</p>
 	<p>Sou uma apaixonada por Tecnologia, e desejo poder usa-lá para ajudar a  melhorar a qualidade de vida das pessoas.</p>
   <p>Falta pouco para terminar minha graduação 🎉, e no momento estou preparando meu TCC e espero poder compaartilhar aqui minhas pesquisas 🥰</li>
@@ -15,12 +15,13 @@
 	<ul>
 		<li>🖥️ Já dei uma passadinha nas áreas de:</li>
 		<ul>
+			<li>Professora de música 🤭 (uma outra história)</li>
 			<li>Montagem e Manutenção de Computadores com suporte ao usuário</li>
 			<li>Designer Grafico</li>
 			<li>Designer Web</li>
 			<li>Social Media</li>
 			<li>Programadora Front-end</li>
-			<li>Professora de música 🤭 (uma outra história)</li>
+			<li>Engenharia de Dados</li>
 		</ul>
     </ul>
 	<p>Cada uma dessas áreas foram grandes oportunidades de crescimento e amadurescimento que me levaram até onde estou hoje e graças a Deus a ser quem sou. Espero poder compartilhar aqui mais uma parte da minha trajetoria, crescimento e amadurecimento tanto individual como com meus atuais colegas e novos colegas 💖</p>
