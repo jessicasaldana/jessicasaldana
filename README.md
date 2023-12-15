@@ -2,15 +2,15 @@
 <div>
 	<img width="100%" src="img/capa/foto-de-capa-ella-don-unsplash-edit-900x250.png">
 	<img width="50%" src="img/espaco-em-branco-toc.png">
-	<img align="right" width="80px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicamarinasaldana/">
+	<a href"https://www.linkedin.com/in/jessicamarinasaldana/">
+		<img align="right" width="80px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicamarinasaldana/">
+	</a>
 	<h1 align="center">✨ Jessica Saldaña ✨</h1>
 </div>
 
 <!--Apresentação-->
 <div>
-	<a href"https://www.linkedin.com/in/jessicamarinasaldana/">
-		<img align="right" width="30%" src="img/meu-bitmoji/visual-2/grin-smile.png">
-	</a>
+	<img align="right" width="30%" src="img/meu-bitmoji/visual-2/grin-smile.png">
 	<p><b>Hola Devs, Jessica aqui.</b> Tenho 29 anos, sou de Petrolina-PE 🌵 Nordestina com orgulho. Estudo Ciência da Computação na Faculdade de Petrolina - FACAPE. Além disso sou Cristã, Nerd, Gamer, Geek, Otaku e Dorameira 😁.</p>
 	<p>Sou apaixonada por tecnologia desde criança, quando meu pai me dava de presente aqueles CDs com mais de 600 jogos para PC (pra mim era o auge da tecnologia 🤣). Desde então não se passou um momento em que não estive envolvida na área, direta ou indeiretamente.</p>
 	<p align="center">
