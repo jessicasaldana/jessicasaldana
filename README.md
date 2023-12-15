@@ -8,7 +8,9 @@
 
 <!--Apresentação-->
 <div>
-	<img align="right" width="30%" src="img/meu-bitmoji/visual-2/grin-smile.png">
+	<a href"https://www.linkedin.com/in/jessicamarinasaldana/">
+		<img align="right" width="30%" src="img/meu-bitmoji/visual-2/grin-smile.png">
+	</a>
 	<p><b>Hola Devs, Jessica aqui.</b> Tenho 29 anos, sou de Petrolina-PE 🌵 Nordestina com orgulho. Estudo Ciência da Computação na Faculdade de Petrolina - FACAPE. Além disso sou Cristã, Nerd, Gamer, Geek, Otaku e Dorameira 😁.</p>
 	<p>Sou apaixonada por tecnologia desde criança, quando meu pai me dava de presente aqueles CDs com mais de 600 jogos para PC (pra mim era o auge da tecnologia 🤣). Desde então não se passou um momento em que não estive envolvida na área, direta ou indeiretamente.</p>
 	<p align="center">
