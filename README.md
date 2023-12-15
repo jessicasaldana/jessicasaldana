@@ -2,7 +2,7 @@
 <div>
 	<img width="100%" src="img/capa/foto-de-capa-ella-don-unsplash-edit-900x250.png">
 	<img width="50%" src="img/espaco-em-branco-toc.png">
-	<a href"https://www.linkedin.com/in/jessicamarinasaldana/">
+	<a href="https://www.linkedin.com/in/jessicamarinasaldana/">
 		<img align="right" width="80px" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jessicamarinasaldana/">
 	</a>
 	<h1 align="center">✨ Jessica Saldaña ✨</h1>
