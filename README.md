@@ -10,7 +10,7 @@
 
 <!--Apresentação-->
 <div>
-	<img align="right" width="30%" src="img/meu-bitmoji/visual-2/grin-smile.png">
+	<img align="right" width="30%" src="https://sdk.bitmoji.com/render/panel/a41da708-81e9-4ec3-9364-9d8748f7063d-27213c33-373b-440f-add7-6466c02b6ca8-v1.png?transparent=1&palette=1">
 	<p><b>Hola Devs, Jessica aqui.</b> Tenho 29 anos, sou de Petrolina-PE 🌵 Nordestina com orgulho. Estudo Ciência da Computação na Faculdade de Petrolina - FACAPE. Além disso sou Cristã, Nerd, Gamer, Geek, Otaku e Dorameira 😁.</p>
 	<p>Sou apaixonada por tecnologia desde criança, quando meu pai me dava de presente aqueles CDs com mais de 600 jogos para PC (pra mim era o auge da tecnologia 🤣). Desde então não se passou um momento em que não estive envolvida na área, direta ou indeiretamente.</p>
 	<p align="center">
@@ -24,7 +24,7 @@
 <div>
 	<h2>Tecnológias e ferramentas 🤓</h2>
 	<p>Aqui está uma lista das liguagens de programação e ferramentas com que já tive contato ao logo desse anos, seja por trabalho, estágio ou estudos.</p>
-	<img align="right" width="30%" src="img/meu-bitmoji/visual-2/laptop-wave.png">
+	<img align="right" width="30%" src="https://sdk.bitmoji.com/render/panel/e0c8b93f-c246-46e8-9db2-ec0cb01ec9eb-27213c33-373b-440f-add7-6466c02b6ca8-v1.png?transparent=1&palette=1">
 	<h3>Linguagens de Programação:</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="8%"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" width="8%"/>
@@ -38,6 +38,7 @@
   	<h3>Front-end</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="8%"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="8%"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="8%"/>
 	<h3>Cloud Computing</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="8%"/>
 	<h3>Design e Prototipagem</h3>
@@ -53,7 +54,6 @@
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="8%/">
 	<h3>Aprendendo</h3>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" width="8%"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="8%"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original-wordmark.svg" width="10%"/>
 </div>
 <img width="50%" src="img/espaco-em-branco-toc.png">
